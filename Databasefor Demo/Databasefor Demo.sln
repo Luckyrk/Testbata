@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Databasefor Demo", "Databasefor Demo\Databasefor Demo.sqlproj", "{7854784C-C42B-454D-8369-7BBC94A1404C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7854784C-C42B-454D-8369-7BBC94A1404C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7854784C-C42B-454D-8369-7BBC94A1404C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7854784C-C42B-454D-8369-7BBC94A1404C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7854784C-C42B-454D-8369-7BBC94A1404C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7854784C-C42B-454D-8369-7BBC94A1404C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7854784C-C42B-454D-8369-7BBC94A1404C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B6DE0C4-9975-402C-A7E8-55331903D4F2}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tfs.gps.kantarworldpanel.com/tfs/globalpanelsystem
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Databasefor\u0020Demo\\Databasefor\u0020Demo.sqlproj
+		SccProjectName1 = Databasefor\u0020Demo
+		SccLocalPath1 = Databasefor\u0020Demo
+	EndGlobalSection
+EndGlobal
